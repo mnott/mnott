@@ -1,59 +1,54 @@
-# Hey, I'm Matthias 👋
+### Hi, I'm Matthias Nott
 
-**Software engineer. Builder. Tinkerer.**
+I've been writing code for over 40 years — starting on a ZX81, through mainframes, Java enterprise stacks, and now AI infrastructure. I've seen every wave of technology hype come and go, and the pattern is always the same: the tools that survive are the ones that solve real problems for real people.
 
-I run [**TEKMidian**](https://tekmidian.com) — a small software studio at the foot of the Dents du Midi in the Swiss Alps. I build apps, AI tooling, and infrastructure for people who want things that actually work.
+That's what I do. I run [**TEKMidian**](https://tekmidian.com), a software studio in the Swiss Alps, where I build apps, AI tooling, and infrastructure. No pitch decks, no frameworks-of-the-week — just working software.
 
-No pitch decks. No frameworks-of-the-week. Just working software.
+Right now I'm focused on making AI assistants actually useful in daily workflows. Not chatbots. Not demos. Tools that a working professional can rely on every day, wired into the systems they already use — WhatsApp, Google Workspace, DEVONthink, Obsidian, their 3D printer.
 
----
+* * *
 
-### What I'm building
+### What I'm Building
 
-🧠 **AI Infrastructure** — I spend most of my time these days building tools that make AI assistants genuinely useful in daily workflows:
+**[PAI — Personal AI Infrastructure](https://github.com/mnott/PAI)** is the backbone of everything else. It's a skill system, semantic memory, and multi-agent orchestration layer for Claude Code. Think of it as the operating system that ties all the tools below together — context that persists across sessions, parallel agent delegation, and a growing library of reusable skills.
 
-| Project | What it does |
-|---------|-------------|
-| [**PAI**](https://github.com/mnott/PAI) | Personal AI Infrastructure — a skill system, semantic memory, and orchestration layer for Claude Code |
-| [**Whazaa**](https://github.com/mnott/Whazaa) | Bidirectional WhatsApp ↔ Claude Code bridge with voice note support |
-| [**Coogle**](https://github.com/mnott/Coogle) | Google Workspace MCP — Gmail, Calendar, Drive, Docs, Sheets, all wired into Claude |
-| [**Devon**](https://github.com/mnott/Devon) | DEVONthink MCP — search, read, and manage your document database from Claude Code |
+**[Whazaa](https://github.com/mnott/Whazaa)** bridges WhatsApp and Claude Code bidirectionally. Text and voice notes flow in, responses flow back — so you can talk to your AI from your phone while it works on your codebase. It handles TTS, transcription, and session routing automatically.
+
+**[Coogle](https://github.com/mnott/Coogle)** wires Google Workspace into Claude Code via MCP. Gmail, Calendar, Drive, Docs, Sheets — all searchable and actionable from the terminal. One tool to replace a dozen browser tabs.
+
+**[Devon](https://github.com/mnott/Devon)** does the same for DEVONthink — Apple's document management powerhouse. Search across databases, read documents, manage smart groups, parse archived emails, all from Claude Code via AppleScript.
+
+**[Obsidian iCloud Sync](https://github.com/mnott/Obsidian-iCloud)** solves a pain point every Obsidian user on Apple knows: you want your notes on your iPhone, but you don't want to sync your entire vault through iCloud. This plugin lets you mark specific folders with YAML frontmatter and syncs only those — bidirectionally, in real-time, with conflict resolution.
+
+**[Scribe](https://github.com/mnott/Scribe)** and **[Hook](https://github.com/mnott/Hook)** round out the MCP toolkit — Scribe for YouTube and media transcription via the Innertube API, Hook for bidirectional document linking through Hookmark.
+
+* * *
+
+### Projects
+
+| | |
+|---|---|
+| [**PAI**](https://github.com/mnott/PAI) | Personal AI Infrastructure — skills, memory, and orchestration for Claude Code |
+| [**Whazaa**](https://github.com/mnott/Whazaa) | Bidirectional WhatsApp ↔ Claude Code with voice support |
+| [**Coogle**](https://github.com/mnott/Coogle) | Google Workspace MCP — Gmail, Calendar, Drive, Docs, Sheets |
+| [**Devon**](https://github.com/mnott/Devon) | DEVONthink MCP — document database access from Claude Code |
+| [**Obsidian iCloud Sync**](https://github.com/mnott/Obsidian-iCloud) | Selective vault folder sync to iCloud for iOS |
 | [**Scribe**](https://github.com/mnott/Scribe) | YouTube & media transcription via Innertube API |
-| [**Hook**](https://github.com/mnott/Hook) | Hookmark MCP — bidirectional document linking from Claude Code |
-| [**Obsidian iCloud Sync**](https://github.com/mnott/Obsidian-iCloud) | Selective vault folder sync to iCloud Drive for iOS access |
+| [**Hook**](https://github.com/mnott/Hook) | Hookmark MCP — bidirectional document linking |
+| [**BambuMine**](https://github.com/mnott/bambumine) | Run Bambu Lab printers fully offline — ![GitHub stars](https://img.shields.io/github/stars/mnott/bambumine?style=flat-square&label=★) |
+| [**texdown**](https://github.com/mnott/texdown) | Markdown → LaTeX pipeline for beautiful typesetting — ![GitHub stars](https://img.shields.io/github/stars/mnott/texdown?style=flat-square&label=★) |
+| [**OrcaSlicer**](https://github.com/mnott/OrcaSlicer) | Fork with ZAA Contouring for advanced 3D print surface quality |
+| [**dissertation-template**](https://github.com/mnott/dissertation-template) | LaTeX thesis template that works with Obsidian — ![GitHub stars](https://img.shields.io/github/stars/mnott/dissertation-template?style=flat-square&label=★) |
+| [**pytp**](https://github.com/mnott/pytp) | Python tape manager for backup workflows — ![GitHub stars](https://img.shields.io/github/stars/mnott/pytp?style=flat-square&label=★) |
+| [**vcompress**](https://github.com/mnott/vcompress) | ffmpeg compression tuned to Apple Compressor quality |
+| [**mail2dt**](https://github.com/mnott/mail2dt) | Docker-based email archival bridge to DEVONthink |
+| [**csvdb**](https://github.com/mnott/csvdb) | Treat CSV files like a database |
+| [**PDFOCRWrapper**](https://github.com/mnott/PDFOCRWrapper) | Recursive PDF OCR engine wrapper (ABBYY) |
 
-🖨️ **3D Printing & Hardware** — I design parts, mod printers, and contribute to slicer software:
+* * *
 
-| Project | What it does |
-|---------|-------------|
-| [**BambuMine**](https://github.com/mnott/bambumine) ⭐ 54 | Settings & profiles for running Bambu Lab printers fully offline |
-| [**OrcaSlicer**](https://github.com/mnott/OrcaSlicer) | Fork integrating ZAA Contouring for advanced surface quality |
+### Connect
 
-🛠️ **Developer Tools** — utilities I've built over 40+ years of coding:
+[TEKMidian](https://tekmidian.com) · [Email](mailto:info@tekmidian.com) · [GitHub Sponsors](https://github.com/sponsors/mnott)
 
-| Project | What it does |
-|---------|-------------|
-| [**texdown**](https://github.com/mnott/texdown) ⭐ 30 | Markdown-to-LaTeX pipeline for beautiful typesetting |
-| [**pytp**](https://github.com/mnott/pytp) ⭐ 17 | Python tape manager for backup workflows |
-| [**dissertation-template**](https://github.com/mnott/dissertation-template) ⭐ 9 | LaTeX thesis template that plays nicely with Obsidian |
-| [**PDFOCRWrapper**](https://github.com/mnott/PDFOCRWrapper) ⭐ 8 | Recursive PDF OCR engine wrapper (ABBYY) |
-| [**vcompress**](https://github.com/mnott/vcompress) ⭐ 6 | ffmpeg compression tuned to match Apple Compressor quality |
-| [**csvdb**](https://github.com/mnott/csvdb) ⭐ 3 | Treat CSV files like a database |
-| [**gitflow**](https://github.com/mnott/gitflow) | A GitFlow CLI |
-| [**mail2dt**](https://github.com/mnott/mail2dt) ⭐ 6 | Docker-based email archival bridge to DEVONthink |
-
----
-
-### About me
-
-- 📍 Based in Troistorrents, Valais, Switzerland
-- 💻 40+ years writing code — started on a ZX81
-- 🏔️ TEKMidian = **tek** (technology) + **Midi** (Dents du Midi) + **-ian** (belonging to)
-- 🎯 I believe in building things that solve real problems, not demo-ware
-- ✈️ Former pilot, still a glider enthusiast
-
-### Get in touch
-
-- 🌐 [tekmidian.com](https://tekmidian.com)
-- 📧 info@tekmidian.com
-- 💖 [Sponsor my work](https://github.com/sponsors/mnott)
+[![Sponsor](https://img.shields.io/github/sponsors/mnott?style=for-the-badge&logo=github&label=Sponsor)](https://github.com/sponsors/mnott)
