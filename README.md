@@ -15,6 +15,14 @@ These days I run [**TEKMidian**](https://tekmidian.com) from the Swiss Alps, bui
 
 * * *
 
+### Connect
+
+[TEKMidian](https://tekmidian.com) · [Email](mailto:info@tekmidian.com) · [LinkedIn](https://linkedin.com/in/mnott) · [GitHub Sponsors](https://github.com/sponsors/mnott)
+
+[![Sponsor](https://img.shields.io/github/sponsors/mnott?style=for-the-badge&logo=github&label=Sponsor)](https://github.com/sponsors/mnott)
+
+* * *
+
 ### What I'm Building
 
 I'm building the tools that make AI assistants genuinely useful — not chatbots, not demos — infrastructure a working professional can rely on daily.
@@ -102,11 +110,3 @@ drwxr-xr-x  human-langs/   DE/EN/FR (native), PL (professional), ES/RU (basic)
 | [**mail2dt**](https://github.com/mnott/mail2dt) | Docker-based email archival bridge to DEVONthink |
 | [**csvdb**](https://github.com/mnott/csvdb) | Treat CSV files like a database |
 | [**PDFOCRWrapper**](https://github.com/mnott/PDFOCRWrapper) | Recursive PDF OCR engine wrapper (ABBYY) |
-
-* * *
-
-### Connect
-
-[TEKMidian](https://tekmidian.com) · [Email](mailto:info@tekmidian.com) · [LinkedIn](https://linkedin.com/in/mnott) · [GitHub Sponsors](https://github.com/sponsors/mnott)
-
-[![Sponsor](https://img.shields.io/github/sponsors/mnott?style=for-the-badge&logo=github&label=Sponsor)](https://github.com/sponsors/mnott)
