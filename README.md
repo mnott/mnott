@@ -46,28 +46,28 @@ I'm building the tools that make AI assistants genuinely useful — not chatbots
 ```
 v35.x  2024-now   AI infrastructure: PAI, MCP servers, multi-agent orchestration
 v30.x  2019-2024  Cloud ops at scale: 1.8M tenants, €250M delivered, Deloitte
-                   "Project of the Year" 2024, zero-downtime migration strategies,
-                   GenAI + agentic use cases for contract analysis
+                  "Project of the Year" 2024, zero-downtime migration strategies,
+                  GenAI + agentic use cases for contract analysis
 v25.x  2014-2019  Enterprise architecture: HANA Cloud Platform strategy across
-                   EMEA, IoT at Bosch/Continental/RWE, won SAP Intrapreneurship
-                   with 'Inside Threat Detection using Machine Learning'
+                  EMEA, IoT at Bosch/Continental/RWE, won SAP Intrapreneurship
+                  with 'Inside Threat Detection using Machine Learning'
 v20.x  2010-2014  iOS native (Objective-C), SAP Regatta Dashboard serving
-                   200K concurrent viewers, HANA Cloud go-to-market across 20+
-                   countries from greenfield
+                  200K concurrent viewers, HANA Cloud go-to-market across 20+
+                  countries from greenfield
 v15.x  2008-2010  PKI/smartcard auth for Business Objects — adopted by UBS,
-                   Credit Suisse, US Department of Defense, Rolex, and Swiss
-                   government orgs. Contributed to core product.
+                  Credit Suisse, US Department of Defense, Rolex, and Swiss
+                  government orgs. Contributed to core product.
 v10.x  2002-2008  BOInterface: Java API + Eclipse plugin for BO platform
-                   introspection. Zero maintenance since 2004. Still runs.
-                   Technical lead for 80+ enterprise accounts.
+                  introspection. Zero maintenance since 2004. Still runs.
+                  Technical lead for 80+ enterprise accounts.
 v5.x   2000-2002  Enterprise web at Vignette Corp (Austin/Munich), 30+
-                   implementations including Allianz.com
+                  implementations including Allianz.com
 v1.x   1991-2000  Country Manager at MICRO-PLUS (USA & France), built
-                   operations from ground up. University of Göttingen:
-                   Physics, Chemistry, Math → Agricultural Sciences.
-                   Published simulation research.
+                  operations from ground up. University of Göttingen:
+                  Physics, Chemistry, Math → Agricultural Sciences.
+                  Published simulation research.
 v0.1   1985       First boot. Amstrad CPC 6128. 128KB RAM. BASIC.
-                   It was enough.
+                  It was enough.
 ```
 
 * * *
