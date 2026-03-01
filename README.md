@@ -4,7 +4,7 @@
 $ uptime
   matthias up 40y+, load avg: code, build, ship
   first boot: 1985, Amstrad CPC 6128, BASIC
-  linux since: 1992 (kernel 0.96c, Slackware on 30 floppies)
+  linux since: 1992 (kernel 0.96c, MCC-interim)
   current: AI infrastructure, MCP tooling, 3D printing
   location: Troistorrents, Switzerland (foot of Dents du Midi)
 ```
