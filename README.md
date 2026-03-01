@@ -2,14 +2,14 @@
 
 ```
 $ uptime
-  matthias up 35y+, load avg: code, build, ship
-  first boot: 1991, Amstrad CPC 6128, BASIC
+  matthias up 40y+, load avg: code, build, ship
+  first boot: 1985, Amstrad CPC 6128, BASIC
   linux since: 1992 (kernel 0.96c, Slackware on 30 floppies)
   current: AI infrastructure, MCP tooling, 3D printing
   location: Troistorrents, Switzerland (foot of Dents du Midi)
 ```
 
-I started on an Amstrad CPC 6128, graduated through Pascal, C, Perl, Java enterprise stacks, Objective-C, Python, and now TypeScript. I ran Linux before it had loadable kernel modules. I've written 300,000+ lines of production code that processed 5TB weekly for board-level reporting at enterprise scale. I built a Java API in 2004 that's still running in 2025 — zero maintenance, 20+ year uptime.
+I started on an Amstrad CPC 6128, graduated through Pascal, C, Perl, Java enterprise stacks, Objective-C, Python, TypeScript — and I still use all of them. I've been on Linux since 1992. I've written 300,000+ lines of production code that processed 5TB weekly for board-level reporting at enterprise scale. I built a Java API in 2004 that's still running in 2025 — zero maintenance, 20+ year uptime.
 
 These days I run [**TEKMidian**](https://tekmidian.com) from the Swiss Alps, building software and AI tooling. The pattern hasn't changed since the CPC: find a real problem, write code that solves it, move on to the next one.
 
@@ -58,7 +58,7 @@ v1.x   1991-2000  Country Manager at MICRO-PLUS (USA & France), built
                    operations from ground up. University of Göttingen:
                    Physics, Chemistry, Math → Agricultural Sciences.
                    Published simulation research.
-v0.1   ~1987      First boot. Amstrad CPC 6128. 128KB RAM. BASIC.
+v0.1   1985       First boot. Amstrad CPC 6128. 128KB RAM. BASIC.
                    It was enough.
 ```
 
