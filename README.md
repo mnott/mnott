@@ -29,7 +29,13 @@ I'm building the tools that make AI assistants genuinely useful — not chatbots
 
 **[PAI — Personal AI Infrastructure](https://github.com/mnott/PAI)** is the backbone. A skill system, semantic memory, and multi-agent orchestration layer for Claude Code. Think `.bashrc` for your AI — context that persists across sessions, parallel agent swarms, and a growing library of composable skills. It's the operating system that ties everything below together.
 
+**[AIBroker](https://github.com/mnott/AIBroker)** is the message broker underneath — a platform-agnostic layer that routes messages between any messaging adapter (WhatsApp, Telegram, custom) and any AI backend (Anthropic, Ollama, OpenAI). Bring your own messenger, bring your own AI. Adapter scaffold included — one prompt to wire up a new transport.
+
 **[Whazaa](https://github.com/mnott/Whazaa)** bridges WhatsApp and Claude Code bidirectionally. Text and voice notes flow in, responses flow back — talk to your AI from your phone while it works on your codebase. TTS, transcription, and session routing, all automatic.
+
+**[Telex](https://github.com/mnott/Telexa)** similar to Whazaa, bridges Telegram and Claude Code bidirectionally.
+
+**PAILot** is the native iOS companion app. A dedicated mobile client for PAI that bypasses WhatsApp's and Telegram's limitations — direct WebSocket connection, push notifications, session management from your pocket. Coming to the App Store.
 
 **[Coogle](https://github.com/mnott/Coogle)** wires Google Workspace into Claude Code via MCP. Gmail, Calendar, Drive, Docs, Sheets — all searchable and actionable from the terminal. One tool to replace a dozen browser tabs.
 
@@ -37,9 +43,7 @@ I'm building the tools that make AI assistants genuinely useful — not chatbots
 
 **[Obsidian iCloud Sync](https://github.com/mnott/Obsidian-iCloud)** solves a pain point every Obsidian user on Apple knows: you want your notes on your iPhone, but you don't want to sync your entire vault. Mark folders with YAML frontmatter, sync only those — bidirectionally, in real-time, with conflict resolution.
 
-**[AIBroker](https://github.com/mnott/AIBroker)** is the message broker underneath — a platform-agnostic layer that routes messages between any messaging adapter (WhatsApp, Telegram, custom) and any AI backend (Anthropic, Ollama, OpenAI). Bring your own messenger, bring your own AI. Adapter scaffold included — one prompt to wire up a new transport.
 
-**PAILot** is the native iOS companion app. A dedicated mobile client for PAI that bypasses WhatsApp's limitations — direct WebSocket connection, push notifications, session management from your pocket. Coming to the App Store.
 
 **[Scribe](https://github.com/mnott/Scribe)** and **[Hook](https://github.com/mnott/Hook)** round out the MCP toolkit — Scribe for YouTube/media transcription via Innertube API, Hook for bidirectional document linking through Hookmark.
 
