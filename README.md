@@ -37,6 +37,10 @@ I'm building the tools that make AI assistants genuinely useful — not chatbots
 
 **[Obsidian iCloud Sync](https://github.com/mnott/Obsidian-iCloud)** solves a pain point every Obsidian user on Apple knows: you want your notes on your iPhone, but you don't want to sync your entire vault. Mark folders with YAML frontmatter, sync only those — bidirectionally, in real-time, with conflict resolution.
 
+**[AIBroker](https://github.com/mnott/AIBroker)** is the message broker underneath — a platform-agnostic layer that routes messages between any messaging adapter (WhatsApp, Telegram, custom) and any AI backend (Anthropic, Ollama, OpenAI). Bring your own messenger, bring your own AI. Adapter scaffold included — one prompt to wire up a new transport.
+
+**PAILot** is the native iOS companion app. A dedicated mobile client for PAI that bypasses WhatsApp's limitations — direct WebSocket connection, push notifications, session management from your pocket. Coming to the App Store.
+
 **[Scribe](https://github.com/mnott/Scribe)** and **[Hook](https://github.com/mnott/Hook)** round out the MCP toolkit — Scribe for YouTube/media transcription via Innertube API, Hook for bidirectional document linking through Hookmark.
 
 * * *
@@ -97,7 +101,9 @@ drwxr-xr-x  human-langs/   DE/EN/FR (native), PL (professional), ES/RU (basic)
 | [**PAI**](https://github.com/mnott/PAI) | Personal AI Infrastructure — skills, memory, and orchestration for Claude Code |
 | [**Whazaa**](https://github.com/mnott/Whazaa) | Bidirectional WhatsApp ↔ Claude Code with voice support |
 | [**Coogle**](https://github.com/mnott/Coogle) | Google Workspace MCP — Gmail, Calendar, Drive, Docs, Sheets |
+| [**AIBroker**](https://github.com/mnott/AIBroker) | Platform-agnostic AI message broker — bring your own messenger + AI backend |
 | [**Devon**](https://github.com/mnott/Devon) | DEVONthink MCP — document database access from Claude Code |
+| **PAILot** | Native iOS companion app for PAI — coming to the App Store |
 | [**Obsidian iCloud Sync**](https://github.com/mnott/Obsidian-iCloud) | Selective vault folder sync to iCloud for iOS |
 | [**Scribe**](https://github.com/mnott/Scribe) | YouTube & media transcription via Innertube API |
 | [**Hook**](https://github.com/mnott/Hook) | Hookmark MCP — bidirectional document linking |
