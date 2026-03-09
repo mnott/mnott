@@ -33,7 +33,7 @@ I'm building the tools that make AI assistants genuinely useful — not chatbots
 
 **[Whazaa](https://github.com/mnott/Whazaa)** bridges WhatsApp and Claude Code bidirectionally. Text and voice notes flow in, responses flow back — talk to your AI from your phone while it works on your codebase. TTS, transcription, and session routing, all automatic.
 
-**[Telex](https://github.com/mnott/Telexa)** similar to Whazaa, bridges Telegram and Claude Code bidirectionally.
+**[Telex](https://github.com/mnott/Telex)** similar to Whazaa, bridges Telegram and Claude Code bidirectionally.
 
 **PAILot** is the native iOS companion app. A dedicated mobile client for PAI that bypasses WhatsApp's and Telegram's limitations — direct WebSocket connection, push notifications, session management from your pocket. Coming to the App Store.
 
