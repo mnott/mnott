@@ -47,6 +47,10 @@ I'm building the tools that make AI assistants genuinely useful — not chatbots
 
 **[Obsidian iCloud Sync](https://github.com/mnott/Obsidian-iCloud)** solves a pain point every Obsidian user on Apple knows: you want your notes on your iPhone, but you don't want to sync your entire vault. Mark folders with YAML frontmatter, sync only those — bidirectionally, in real-time, with conflict resolution.
 
+**[VoiceInk](https://github.com/mnott/VoiceInk)** A [VoiceInk](https://github.com/Beingpax/VoiceInk) that adds input pinning, so that you can keep talking to your AI sessions while they have control over your mouse. On top of that, it adds a Meeting mode, so that you can live-transcribe your online meetings and have your AI coach you during those meetings.
+
+
+
 
 
 **[Scribe](https://github.com/mnott/Scribe)** and **[Hook](https://github.com/mnott/Hook)** round out the MCP toolkit — Scribe for YouTube/media transcription via Innertube API, Hook for bidirectional document linking through Hookmark.
@@ -108,12 +112,13 @@ drwxr-xr-x  human-langs/   DE/EN/FR (native), PL (professional), ES/RU (basic)
 |---|---|---|
 | [**PAI**](https://github.com/mnott/PAI) | Personal AI Infrastructure — skills, memory, and orchestration for Claude Code | ![GitHub stars](https://img.shields.io/github/stars/mnott/PAI?style=flat-square&label=★)  |
 | [**AIBroker**](https://github.com/mnott/AIBroker) | Platform-agnostic AI message broker — bring your own messenger + AI backend | ![GitHub stars](https://img.shields.io/github/stars/mnott/AIBroker?style=flat-square&label=★) |
+| [**PAILot**](https://apps.apple.com/ch/app/pailot/id6779190385) | Native iOS companion app for PAI — on the App Store | |
 | [**Clickr**](https://github.com/mnott/Clickr) | Let's your AI remote-control your computer | ![GitHub stars](https://img.shields.io/github/stars/mnott/Clickr?style=flat-square&label=★) |
 | [**Clickr**](https://github.com/mnott/Browsr) | Let's your AI remote-control your browser | ![GitHub stars](https://img.shields.io/github/stars/mnott/Browsr?style=flat-square&label=★) |
 | [**Whazaa**](https://github.com/mnott/Whazaa) | Bidirectional WhatsApp ↔ Claude Code with voice support | ![GitHub stars](https://img.shields.io/github/stars/mnott/Whazaa?style=flat-square&label=★) |
 | [**Coogle**](https://github.com/mnott/Coogle) | Google Workspace MCP — Gmail, Calendar, Drive, Docs, Sheets | ![GitHub stars](https://img.shields.io/github/stars/mnott/Coogle?style=flat-square&label=★) |
 | [**Devon**](https://github.com/mnott/Devon) | DEVONthink MCP — document database access from Claude Code | ![GitHub stars](https://img.shields.io/github/stars/mnott/Devon?style=flat-square&label=★) |
-| [**PAILot**](https://apps.apple.com/ch/app/pailot/id6779190385) | Native iOS companion app for PAI — on the App Store | |
+| [**VoiceInk**](https://github.com/mnott/Devon) | Live Audio Input and Meeting Coach | ![GitHub stars](https://img.shields.io/github/stars/mnott/VoiceInk?style=flat-square&label=★) |
 | [**Obsidian iCloud Sync**](https://github.com/mnott/Obsidian-iCloud) | Selective vault folder sync to iCloud for iOS | ![GitHub stars](https://img.shields.io/github/stars/mnott/Obsidian-iCloud?style=flat-square&label=★) |
 | [**Scribe**](https://github.com/mnott/Scribe) | YouTube & media transcription via Innertube API | ![GitHub stars](https://img.shields.io/github/stars/mnott/Scribe?style=flat-square&label=★) |
 | [**Hook**](https://github.com/mnott/Hook) | Hookmark MCP — bidirectional document linking | ![GitHub stars](https://img.shields.io/github/stars/mnott/Hook?style=flat-square&label=★) |
