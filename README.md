@@ -47,7 +47,7 @@ I'm building the tools that make AI assistants genuinely useful — not chatbots
 
 **[Obsidian iCloud Sync](https://github.com/mnott/Obsidian-iCloud)** solves a pain point every Obsidian user on Apple knows: you want your notes on your iPhone, but you don't want to sync your entire vault. Mark folders with YAML frontmatter, sync only those — bidirectionally, in real-time, with conflict resolution.
 
-**[VoiceInk](https://github.com/mnott/VoiceInk)** A [VoiceInk](https://github.com/Beingpax/VoiceInk) that adds input pinning, so that you can keep talking to your AI sessions while they have control over your mouse. On top of that, it adds a Meeting mode, so that you can live-transcribe your online meetings and have your AI coach you during those meetings.
+**[VoiceInk](https://github.com/mnott/VoiceInk)** A [VoiceInk](https://github.com/Beingpax/VoiceInk) fork that adds input pinning, so that you can keep talking to your AI sessions while they have control over your mouse. On top of that, it adds a Meeting mode, so that you can live-transcribe your online meetings and have your AI coach you during those meetings.
 
 
 
