@@ -49,9 +49,7 @@ I'm building the tools that make AI assistants genuinely useful — not chatbots
 
 **[VoiceInk](https://github.com/mnott/VoiceInk)** A [VoiceInk](https://github.com/Beingpax/VoiceInk) fork that adds input pinning, so that you can keep talking to your AI sessions while they have control over your mouse. On top of that, it adds a Meeting mode, so that you can live-transcribe your online meetings and have your AI coach you during those meetings.
 
-
-
-
+**[CaseLeaf](https://caseleaf.app)** Preview, Acrobat, Illustrator, Notability (PAIN) - just better, and takes the pain out of them.
 
 **[Scribe](https://github.com/mnott/Scribe)** and **[Hook](https://github.com/mnott/Hook)** round out the MCP toolkit — Scribe for YouTube/media transcription via Innertube API, Hook for bidirectional document linking through Hookmark.
 
