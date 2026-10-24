@@ -100,24 +100,24 @@ drwxr-xr-x  human-langs/   DE/EN/FR (native), PL (professional), ES/RU (basic)
 
 ### Projects
 
-| | |
-|---|---|
-| [**PAI**](https://github.com/mnott/PAI) | Personal AI Infrastructure — skills, memory, and orchestration for Claude Code — ![GitHub stars](https://img.shields.io/github/stars/mnott/PAI?style=flat-square&label=★)  |
-| [**AIBroker**](https://github.com/mnott/AIBroker) | Platform-agnostic AI message broker — bring your own messenger + AI backend |
-| [**Clickr**](https://github.com/mnott/Clickr) | Let's your AI remote-control your computer |
-| [**Whazaa**](https://github.com/mnott/Whazaa) | Bidirectional WhatsApp ↔ Claude Code with voice support |
-| [**Coogle**](https://github.com/mnott/Coogle) | Google Workspace MCP — Gmail, Calendar, Drive, Docs, Sheets |
-| [**Devon**](https://github.com/mnott/Devon) | DEVONthink MCP — document database access from Claude Code |
-| [**PAILot**](https://apps.apple.com/ch/app/pailot/id6779190385) | Native iOS companion app for PAI — on the App Store |
-| [**Obsidian iCloud Sync**](https://github.com/mnott/Obsidian-iCloud) | Selective vault folder sync to iCloud for iOS |
-| [**Scribe**](https://github.com/mnott/Scribe) | YouTube & media transcription via Innertube API |
-| [**Hook**](https://github.com/mnott/Hook) | Hookmark MCP — bidirectional document linking |
-| [**BambuMine**](https://github.com/mnott/bambumine) | Run Bambu Lab printers fully offline — ![GitHub stars](https://img.shields.io/github/stars/mnott/bambumine?style=flat-square&label=★) |
-| [**texdown**](https://github.com/mnott/texdown) | Markdown → LaTeX pipeline for beautiful typesetting — ![GitHub stars](https://img.shields.io/github/stars/mnott/texdown?style=flat-square&label=★) |
-| [**OrcaSlicer**](https://github.com/mnott/OrcaSlicer) | Fork with ZAA Contouring for advanced 3D print surface quality |
-| [**dissertation-template**](https://github.com/mnott/dissertation-template) | LaTeX thesis template that works with Obsidian — ![GitHub stars](https://img.shields.io/github/stars/mnott/dissertation-template?style=flat-square&label=★) |
-| [**pytp**](https://github.com/mnott/pytp) | Python tape manager for backup workflows — ![GitHub stars](https://img.shields.io/github/stars/mnott/pytp?style=flat-square&label=★) |
-| [**vcompress**](https://github.com/mnott/vcompress) | ffmpeg compression tuned to Apple Compressor quality |
-| [**mail2dt**](https://github.com/mnott/mail2dt) | Docker-based email archival bridge to DEVONthink |
-| [**csvdb**](https://github.com/mnott/csvdb) | Treat CSV files like a database |
-| [**PDFOCRWrapper**](https://github.com/mnott/PDFOCRWrapper) | Recursive PDF OCR engine wrapper (ABBYY) |
+| | | |
+|---|---|---|
+| [**PAI**](https://github.com/mnott/PAI) | Personal AI Infrastructure — skills, memory, and orchestration for Claude Code | ![GitHub stars](https://img.shields.io/github/stars/mnott/PAI?style=flat-square&label=★)  |
+| [**AIBroker**](https://github.com/mnott/AIBroker) | Platform-agnostic AI message broker — bring your own messenger + AI backend | ![GitHub stars](https://img.shields.io/github/stars/mnott/AIBroker?style=flat-square&label=★) |
+| [**Clickr**](https://github.com/mnott/Clickr) | Let's your AI remote-control your computer | ![GitHub stars](https://img.shields.io/github/stars/mnott/Clickr?style=flat-square&label=★) |
+| [**Whazaa**](https://github.com/mnott/Whazaa) | Bidirectional WhatsApp ↔ Claude Code with voice support | ![GitHub stars](https://img.shields.io/github/stars/mnott/Whazaa?style=flat-square&label=★) |
+| [**Coogle**](https://github.com/mnott/Coogle) | Google Workspace MCP — Gmail, Calendar, Drive, Docs, Sheets | ![GitHub stars](https://img.shields.io/github/stars/mnott/Coogle?style=flat-square&label=★) |
+| [**Devon**](https://github.com/mnott/Devon) | DEVONthink MCP — document database access from Claude Code | ![GitHub stars](https://img.shields.io/github/stars/mnott/Devon?style=flat-square&label=★) |
+| [**PAILot**](https://apps.apple.com/ch/app/pailot/id6779190385) | Native iOS companion app for PAI — on the App Store | |
+| [**Obsidian iCloud Sync**](https://github.com/mnott/Obsidian-iCloud) | Selective vault folder sync to iCloud for iOS | ![GitHub stars](https://img.shields.io/github/stars/mnott/Obsidian-iCloud?style=flat-square&label=★) |
+| [**Scribe**](https://github.com/mnott/Scribe) | YouTube & media transcription via Innertube API | ![GitHub stars](https://img.shields.io/github/stars/mnott/Scribe?style=flat-square&label=★) |
+| [**Hook**](https://github.com/mnott/Hook) | Hookmark MCP — bidirectional document linking | ![GitHub stars](https://img.shields.io/github/stars/mnott/Hook?style=flat-square&label=★) |
+| [**BambuMine**](https://github.com/mnott/bambumine) | Run Bambu Lab printers fully offline | ![GitHub stars](https://img.shields.io/github/stars/mnott/bambumine?style=flat-square&label=★) |
+| [**texdown**](https://github.com/mnott/texdown) | Markdown → LaTeX pipeline for beautiful typesetting | ![GitHub stars](https://img.shields.io/github/stars/mnott/texdown?style=flat-square&label=★) |
+| [**OrcaSlicer**](https://github.com/mnott/OrcaSlicer) | Fork with ZAA Contouring for advanced 3D print surface quality | ![GitHub stars](https://img.shields.io/github/stars/mnott/OrcaSlicer?style=flat-square&label=★) |
+| [**dissertation-template**](https://github.com/mnott/dissertation-template) | LaTeX thesis template that works with Obsidian | ![GitHub stars](https://img.shields.io/github/stars/mnott/dissertation-template?style=flat-square&label=★) |
+| [**pytp**](https://github.com/mnott/pytp) | Python tape manager for backup workflows | ![GitHub stars](https://img.shields.io/github/stars/mnott/pytp?style=flat-square&label=★) |
+| [**vcompress**](https://github.com/mnott/vcompress) | ffmpeg compression tuned to Apple Compressor quality | ![GitHub stars](https://img.shields.io/github/stars/mnott/vcompress?style=flat-square&label=★) |
+| [**mail2dt**](https://github.com/mnott/mail2dt) | Docker-based email archival bridge to DEVONthink | ![GitHub stars](https://img.shields.io/github/stars/mnott/mail2dt?style=flat-square&label=★) |
+| [**csvdb**](https://github.com/mnott/csvdb) | Treat CSV files like a database | ![GitHub stars](https://img.shields.io/github/stars/mnott/csvdb?style=flat-square&label=★) |
+| [**PDFOCRWrapper**](https://github.com/mnott/PDFOCRWrapper) | Recursive PDF OCR engine wrapper (ABBYY) | ![GitHub stars](https://img.shields.io/github/stars/mnott/PDFOCRWrapper?style=flat-square&label=★) |
