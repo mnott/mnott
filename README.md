@@ -31,11 +31,15 @@ I'm building the tools that make AI assistants genuinely useful — not chatbots
 
 **[AIBroker](https://github.com/mnott/AIBroker)** is the message broker underneath — a platform-agnostic layer that routes messages between any messaging adapter (WhatsApp, Telegram, custom) and any AI backend (Anthropic, Ollama, OpenAI). Bring your own messenger, bring your own AI. Adapter scaffold included — one prompt to wire up a new transport.
 
+**[PAILot](https://apps.apple.com/ch/app/pailot/id6779190385)** is the native iOS App (Android Version forthcoming) that allows you to speak with your AI from your phone, and have your AI speak back to you. It bypasses WhatsApp's and Telegram's limitations — direct WebSocket connection, push notifications, session management from your pocket.
+
+**[Clickr](https://github.com/mnott/Clickr)** gives your AI agents controls: Mouse and Keyboard input, for as long as you want - useful if you want to have your AI agents develop visual apps that need visual testing.
+
+**[Browsr](https://github.com/mnott/Browsr)** gives your AI agents Browser controls: Claude Code has claude-in-chrome, but other agents cannot make use of it. With Browsr, the can.
+
 **[Whazaa](https://github.com/mnott/Whazaa)** bridges WhatsApp and Claude Code bidirectionally. Text and voice notes flow in, responses flow back — talk to your AI from your phone while it works on your codebase. TTS, transcription, and session routing, all automatic.
 
 **[Telex](https://github.com/mnott/Telex)** similar to Whazaa, bridges Telegram and Claude Code bidirectionally.
-
-**PAILot** is the native iOS companion app. A dedicated mobile client for PAI that bypasses WhatsApp's and Telegram's limitations — direct WebSocket connection, push notifications, session management from your pocket. Coming to the App Store.
 
 **[Coogle](https://github.com/mnott/Coogle)** wires Google Workspace into Claude Code via MCP. Gmail, Calendar, Drive, Docs, Sheets — all searchable and actionable from the terminal. One tool to replace a dozen browser tabs.
 
@@ -105,6 +109,7 @@ drwxr-xr-x  human-langs/   DE/EN/FR (native), PL (professional), ES/RU (basic)
 | [**PAI**](https://github.com/mnott/PAI) | Personal AI Infrastructure — skills, memory, and orchestration for Claude Code | ![GitHub stars](https://img.shields.io/github/stars/mnott/PAI?style=flat-square&label=★)  |
 | [**AIBroker**](https://github.com/mnott/AIBroker) | Platform-agnostic AI message broker — bring your own messenger + AI backend | ![GitHub stars](https://img.shields.io/github/stars/mnott/AIBroker?style=flat-square&label=★) |
 | [**Clickr**](https://github.com/mnott/Clickr) | Let's your AI remote-control your computer | ![GitHub stars](https://img.shields.io/github/stars/mnott/Clickr?style=flat-square&label=★) |
+| [**Clickr**](https://github.com/mnott/Browsr) | Let's your AI remote-control your browser | ![GitHub stars](https://img.shields.io/github/stars/mnott/Browsr?style=flat-square&label=★) |
 | [**Whazaa**](https://github.com/mnott/Whazaa) | Bidirectional WhatsApp ↔ Claude Code with voice support | ![GitHub stars](https://img.shields.io/github/stars/mnott/Whazaa?style=flat-square&label=★) |
 | [**Coogle**](https://github.com/mnott/Coogle) | Google Workspace MCP — Gmail, Calendar, Drive, Docs, Sheets | ![GitHub stars](https://img.shields.io/github/stars/mnott/Coogle?style=flat-square&label=★) |
 | [**Devon**](https://github.com/mnott/Devon) | DEVONthink MCP — document database access from Claude Code | ![GitHub stars](https://img.shields.io/github/stars/mnott/Devon?style=flat-square&label=★) |
