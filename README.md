@@ -102,12 +102,13 @@ drwxr-xr-x  human-langs/   DE/EN/FR (native), PL (professional), ES/RU (basic)
 
 | | |
 |---|---|
-| [**PAI**](https://github.com/mnott/PAI) | Personal AI Infrastructure — skills, memory, and orchestration for Claude Code |
+| [**PAI**](https://github.com/mnott/PAI) | Personal AI Infrastructure — skills, memory, and orchestration for Claude Code — ![GitHub stars](https://img.shields.io/github/stars/mnott/PAI?style=flat-square&label=★)  |
+| [**AIBroker**](https://github.com/mnott/AIBroker) | Platform-agnostic AI message broker — bring your own messenger + AI backend |
+| [**Clickr**](https://github.com/mnott/Clickr) | Let's your AI remote-control your computer |
 | [**Whazaa**](https://github.com/mnott/Whazaa) | Bidirectional WhatsApp ↔ Claude Code with voice support |
 | [**Coogle**](https://github.com/mnott/Coogle) | Google Workspace MCP — Gmail, Calendar, Drive, Docs, Sheets |
-| [**AIBroker**](https://github.com/mnott/AIBroker) | Platform-agnostic AI message broker — bring your own messenger + AI backend |
 | [**Devon**](https://github.com/mnott/Devon) | DEVONthink MCP — document database access from Claude Code |
-| **PAILot** | Native iOS companion app for PAI — coming to the App Store |
+| [**PAILot**](https://apps.apple.com/ch/app/pailot/id6779190385) | Native iOS companion app for PAI — on the App Store |
 | [**Obsidian iCloud Sync**](https://github.com/mnott/Obsidian-iCloud) | Selective vault folder sync to iCloud for iOS |
 | [**Scribe**](https://github.com/mnott/Scribe) | YouTube & media transcription via Innertube API |
 | [**Hook**](https://github.com/mnott/Hook) | Hookmark MCP — bidirectional document linking |
